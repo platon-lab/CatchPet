@@ -1,6 +1,0 @@
-{
-  "name": "Animal Catch",
-  "description": "Сучасна HTML5-гра для ловлі тварин за допомогою камери та ШІ",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
